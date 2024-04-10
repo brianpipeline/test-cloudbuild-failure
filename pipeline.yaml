@@ -1,0 +1,4 @@
+type: "cloudbuild-deploy"
+pipelineType: "webhook"
+pipelineName: "test-cloudbuild-deployer-pipeline"
+
